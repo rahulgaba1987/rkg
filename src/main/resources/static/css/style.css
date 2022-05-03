@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+body
+{
+	background: #e2e2e2;
+}
+
+.sidebar
+{
+	padding-top:20px;
+	width: 18%;
+	height: 100%;
+	position: fixed;
+	background-color: white;
+	
+}
+.sidebar a
+{
+	display: block;
+	width: 100%;
+	padding: 10px 25px;
+	text-decoration: none;
+	color: gray;
+}
+.sidebar a:hover
+{
+	background: #e2e2e2;
+}
+
+
+.content
+{
+	 margin-left: 20%;
+}
+
+.my-card
+{
+	 padding: 20px;
+	 background-color: #FFFFFF;
+	 margin-bottom: 10%;
+}
+.login
+{
+	border-style: solid;
+	border-color: black;
+	margin-top: 10%;
+	padding: 20px;
+	margin-left: 30%;
+	margin-right: 30%;
+	
+}
